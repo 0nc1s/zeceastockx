@@ -1,8 +1,11 @@
 {
-  "name": "stockx",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+       "name": "zeceaStockx",
+      "version": "1.2.0",
+      "description": "Stockx Price data",
+      "main": "index.js",
+      "scripts": {
+        "build": "webpack",
+        "dev": "webpack-dev-server"
   "author": "calm301",
   "license": "ISC",
   "dependencies": {
@@ -10,3 +13,4 @@
     "request": "^2.87.0"
   }
 }
+   
